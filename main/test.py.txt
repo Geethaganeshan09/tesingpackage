@@ -1,2 +1,0 @@
-def testings():
-	print("testing started")
